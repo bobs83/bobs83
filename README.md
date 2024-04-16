@@ -1,7 +1,10 @@
 ### Hi there! Welcome to my GitHub Repositories 👋
 
+
+
 I am a freshly certified full-stack developer in the vibrant heart 🖤 of Berlin. 
 My journey in coding is fueled by a fascination with crafting user-centric 🎯 experiences and mastering all its aspects, from front to back.
+
 
 
 Here's a little about what I'm up to and how you can get in touch:
@@ -14,14 +17,15 @@ Here's a little about what I'm up to and how you can get in touch:
 Looking forward to collaborating on innovative projects and exploring new technologies!
 
 
-### Languages & Tools:
+
+### Languages & Tools: 🛠️
+![68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c657870726573732c6e6f64656a732c72656163742c6d6f6e676f64622c626f6f7473747261702c6177732c6e65746c6966792c6e706d2c6769746875622c7673636f6465](https://github.com/bobs83/bobs83/assets/124786894/930ed61f-7caf-452d-8846-56f26e979049)
 
 
-
-### Get in touch 
-[Instagram](https://www.instagram.com/bobby.inberlin/)
-[Website](workwithbobby.today)
-[LinkedIn](https://www.linkedin.com/in/bobbyinberlin/) 
+### How to Reach Me: 📫
+- [Instagram](https://www.instagram.com/bobby.inberlin/)
+- [Website](workwithbobby.today)
+- [LinkedIn](https://www.linkedin.com/in/bobbyinberlin/) 
 
 
 
