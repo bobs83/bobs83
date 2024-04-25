@@ -6,13 +6,12 @@ I am a freshly certified full-stack developer in the vibrant heart 🖤 of Berli
 My journey in coding is fueled by a fascination with crafting user-centric 🎯 experiences and mastering all its aspects, from front to back.
 
 
-
 Here's a little about what I'm up to and how you can get in touch:
 
 - 🌱 **Currently Learning:** I’m diving deep into API microservices to enhance my development skills for the ecommerce industry
 - 🎵 **Interests:** I enjoy curating playlists on [Spotify](https://open.spotify.com/user/bobs83?si=4sCSnnxLTOiAlcchM4UwYg). Music is my go-to source for creativity and energy.
 - 💬 **Ask Me About:** My customer-centric approach and how it can benefit your organization.
-- 📫 **How to Reach Me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/bobbyinberlin/) or visit my [Website](workwithbobby.today) to learn more.
+- 📫 **How to Reach Me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/bobbyinberlin/) or visit my [Website](https://bobbyinberlin.de/) to learn more.
 
 Looking forward to collaborating on innovative projects and exploring new technologies!
 
