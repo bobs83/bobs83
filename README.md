@@ -10,7 +10,7 @@ Here's a little about what I'm up to and how you can get in touch:
 
 - 🌱 **Currently Learning:** I’m diving deep into API microservices to enhance my development skills for the ecommerce industry
 - 🎵 **Interests:** I enjoy curating playlists on [Spotify](https://open.spotify.com/user/bobs83?si=4sCSnnxLTOiAlcchM4UwYg). Music is my go-to source for creativity and energy.
-- 💬 **Ask Me About:** My customer-centric approach and how it can benefit your organization.
+<!--- 💬 **Ask Me About:** My customer-centric approach and how it can benefit your organization. -->
 - 📫 **How to Reach Me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/bobbyinberlin/) or visit my [Website](https://workwithbobby.today/) to learn more.
 
 Looking forward to collaborating on innovative projects and exploring new technologies!
@@ -22,9 +22,9 @@ Looking forward to collaborating on innovative projects and exploring new techno
 
 
 ### How to Reach Me: 📫
-- [Instagram](https://www.instagram.com/bobby.inberlin/)
 - [Website](workwithbobby.today)
-- [LinkedIn](https://www.linkedin.com/in/bobbyinberlin/) 
+- [LinkedIn](https://www.linkedin.com/in/bobbyinberlin/)
+- [Instagram](https://www.instagram.com/bobby.inberlin/)
 
 
 
