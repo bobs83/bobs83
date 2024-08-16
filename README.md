@@ -27,6 +27,11 @@ Looking forward to collaborating on innovative projects and exploring new techno
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BobbyInBerlin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobbyinberlin/)
 [![Instagram](https://img.shields.io/badge/Instagram-Bobby.inBerlin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bobby.inberlin/)
 
+### Stats: ☝
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bobs83&theme=default&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+
 
 <!--- 💬 **Ask Me About:** My customer-centric approach and how it can benefit your organization. -->
 
