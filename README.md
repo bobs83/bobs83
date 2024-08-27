@@ -29,7 +29,11 @@ Looking forward to collaborating on innovative projects and exploring new techno
 
 ### Stats: ☝
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bobs83&theme=default&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 
 
